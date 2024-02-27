@@ -1,12 +1,2 @@
 assets/cover/pexels-pressmaster-3209239-960x540-25fps.mp4 filter=lfs diff=lfs merge=lfs -text
-static/images/favicon-16x16.png filter=lfs diff=lfs merge=lfs -text
-static/images/favicon-32x32.png filter=lfs diff=lfs merge=lfs -text
-static/images/favicon.png filter=lfs diff=lfs merge=lfs -text
-static/images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg filter=lfs diff=lfs merge=lfs -text
-static/images/apple-touch-icon.png filter=lfs diff=lfs merge=lfs -text
-static/images/board-bunch-cooking-food-349609.jpg filter=lfs diff=lfs merge=lfs -text
-static/images/chef-hat.png filter=lfs diff=lfs merge=lfs -text
-static/images/cover-image.jpg filter=lfs diff=lfs merge=lfs -text
-static/images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg filter=lfs diff=lfs merge=lfs -text
-static/images/woman-pouring-juice-on-glass-3184192.jpg filter=lfs diff=lfs merge=lfs -text
 static/favicon.ico filter=lfs diff=lfs merge=lfs -text
