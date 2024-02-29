@@ -14,6 +14,9 @@ title = "Shulamite C. Chung - Nutrition Coach & Chef Consultant"
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
 
@@ -42,7 +45,7 @@ title = "Shulamite C. Chung - Nutrition Coach & Chef Consultant"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Jane Doe"
+    copyright = "© Shulamite C. Chung"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
